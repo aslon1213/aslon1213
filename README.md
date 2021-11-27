@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aslon1213
 - 👀 I’m interested in programming, science (: and aslo football
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on any project from this time on
+- 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me hamidovaslon1@gmail.com
 
 <!---
