@@ -9,4 +9,3 @@ aslon1213/aslon1213 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aslon1213&show_icons=true&theme=radical)
-https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
