@@ -17,7 +17,4 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aslon1213&show_icons=true&theme=radical)
-
-
-
--[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=5hgh7mdwewiw4cvku5f1mtod4&cover_image=true&theme=default&bar_color=48d043&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=5hgh7mdwewiw4cvku5f1mtod4&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=5hgh7mdwewiw4cvku5f1mtod4&cover_image=true&theme=default&bar_color=48d043&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=5hgh7mdwewiw4cvku5f1mtod4&redirect=true)
