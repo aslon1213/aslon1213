@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @aslon1213
 - 👀 I’m interested in programming, science (: and aslo football(PS only)
-- Love music - ![Love Music](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
+- Love music - ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on any project
-- 📫 How to reach me hamidovaslon1@gmail.com
+- 📫 How to reach me <a href='hamidovaslon1@gmail.com'>![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
