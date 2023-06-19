@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @aslon1213
-- 👀 I’m interested in programming, science (: and aslo football(PS only)
-- Love music 
-- 🌱 I’m currently learning python
+- 👀 I’m interested in programming, science (: and many more
+- 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me:
 <a href="mailto:hamidovaslon1@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> 
