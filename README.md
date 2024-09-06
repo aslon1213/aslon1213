@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aslon1213
-- 👀 I’m interested in programming, science (: and many more
+- 👀 Passionate about backend development, automation, science, AI and exploring new technologies.
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me:
