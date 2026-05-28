@@ -1,5 +1,10 @@
-- 👋 Hi, I’m Aslon
-- I am passionate about backend development, automation, science, AI and exploring new technologies.
+## 👋 About Me
+
+Backend & systems engineer based in Tashkent, Uzbekistan, building AI products and the infrastructure behind them — mostly in **Go** and **Python**.
+
+By day I work at **Openbank**, building conversational AI and the backend systems that run it: gateways, model serving, and the pipelines that tie everything together.
+
+💬 Always glad to talk backend architecture, distributed systems, or AI.
 
 📫 How to reach me:
   1. <a href="mailto:hamidovaslon1@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
